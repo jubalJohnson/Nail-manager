@@ -1,2 +1,2 @@
-# nailManagementApp
+# Nail manger
 This is a mobile application that helps the freelance nail artists to better manage their bookings. Apart form just bookings this app can provide a visual catalog of available styles, colors and type of nails to the clients to choose from during the booking process. This provides enough time for the artist to setup their tools and products according to customer needs prior to the appointment. This also helps clients to take their time to choose from catalog without rushing.
