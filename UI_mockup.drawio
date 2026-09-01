@@ -1,0 +1,82 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="bSKGOMM9xxlKxFhxl01K">
+    <mxGraphModel dx="774" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="340" width="340" x="215" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Welcome to Nail manager&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="285" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Password" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User name" vertex="1">
+          <mxGeometry height="30" width="80" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-7" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="" vertex="1">
+          <mxGeometry height="15" width="150" x="340" y="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-8" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" value="" vertex="1">
+          <mxGeometry height="15" width="150" x="340" y="197.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-9" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" value="Log-in" vertex="1">
+          <mxGeometry height="30" width="90" x="340" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-10" edge="1" parent="1" source="m51VAPMPeQHLx4_qFqBj-1" style="endArrow=classic;html=1;rounded=0;exitX=0.483;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="m51VAPMPeQHLx4_qFqBj-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="620" as="sourcePoint" />
+            <mxPoint x="300" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="290" width="290" x="40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Nail manger&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="140" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-14" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="290" width="290" x="530" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Nail manger&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="630" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-16" edge="1" parent="1" source="m51VAPMPeQHLx4_qFqBj-1" style="endArrow=classic;html=1;rounded=0;exitX=0.599;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.322;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="m51VAPMPeQHLx4_qFqBj-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="684" y="440" as="sourcePoint" />
+            <mxPoint x="490" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-18" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="Book a slot" vertex="1">
+          <mxGeometry height="20" width="165" x="592.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-19" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="View the catalog" vertex="1">
+          <mxGeometry height="20" width="165" x="595" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-20" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="Reschedule" vertex="1">
+          <mxGeometry height="20" width="165" x="600" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-21" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="View the schedule" vertex="1">
+          <mxGeometry height="20" width="165" x="102.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-22" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="Edit the catalog" vertex="1">
+          <mxGeometry height="20" width="165" x="102.5" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-23" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="Reschedule" vertex="1">
+          <mxGeometry height="20" width="165" x="105" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-24" parent="1" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" value="Change working hours" vertex="1">
+          <mxGeometry height="20" width="165" x="105" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Artist View" vertex="1">
+          <mxGeometry height="30" width="72" x="149" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="m51VAPMPeQHLx4_qFqBj-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Client view" vertex="1">
+          <mxGeometry height="30" width="72" x="639" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
